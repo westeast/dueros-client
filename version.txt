@@ -1,0 +1,3 @@
+app version:    tag_Raspberry_Speaker_V0.7.39_20170901
+sdk version:    tag_Raspberry_Speaker_V0.7.40_20170901
+speech version: v3.0.6.15c6ba8

@@ -1,0 +1,23 @@
+{
+  "voice_pid": "722",
+  "voice_package": "com.baidu.dumi.raspi",
+  "voice_server_url": "https://vse.baidu.com/v2",
+  "debug_switch": "1",
+  "sdk_version": "V0.7.37-Raspi_Speaker-D",
+  "clicklog_version":"2.0.5",
+  "event_server_url":"https://xiaodu.baidu.com:443/saiya/ws",
+  "outputlog_console":"0",
+  "clicklog_url":"https://xiaodu.baidu.com/saiya/log?",
+  "asr_dumi_two_in_one":"1",
+  "ais_switch":"1",
+  "wakeup_dnn":"0",
+  "voice_debug_log_on":"0",
+  "voice_speech_sdk_version":"v3.0.6.15c6ba8-20170714-190327-rpi",
+  "asr_dumi_confirm_request_url":"https://xiaodu.baidu.com/ws",
+  "debug_ws_url":"",
+  "debug_token":"",
+  "request_login_token_url":"https://xiaodu.baidu.com:443/saiya/device/token",
+  "tts_speed":"5"
+  
+}
+
